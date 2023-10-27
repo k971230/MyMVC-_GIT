@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+label.prodInfo {
+	border: solid 0px gray;
+	display: inline-block; /* label 태그는 width 가 안먹으므로 디스플레이를 변경해주어야 한다.;*/
+	width: 48px;
+	margin-left: 5px;
+}
