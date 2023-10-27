@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+div.div1 {
+	border: solid 1px black;
+	width: 45%;
+	/*height: 100px;*/
+	background-color: white;
+	text-align: left;
+	padding: 10px;
+	border-bottom: none;
+}
+
+div.div3 {
+	border-bottom: solid 1px black;
+}
+
+input.inputFocus {
+	border: none;
+}
+
+input.inputFocus:focus {
+	outline: none;
+}
+
+div.div2 {
+	margin-top: 20px;
+}
+
+span#gender {
+	margin-left: 200px;
+}
+
+p.error {
+	color: red;
+}
